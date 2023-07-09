@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik!</h1>
-<h3 align="center">Im Currently working as Data Scientist, with low level graph optimization and research as area of practice, Making Machine see the world!</h3>
+<h3 align="center"> Building AI Tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik4949&label=Profile%20views&color=0e75b6&style=flat" alt="kartik4949" /> </p>
 
