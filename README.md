@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik4949" alt="kartik4949" /></a> </p>
 
-- 🔭 I’m currently working on [DeepOps](https://github.com/kartik4949/deepops)
+- 🔭 I’m currently working on [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb)
 
 - 🌱 I’m currently learning **Cuda, ARM assembly language.**
-
-- 👯 I’m looking to collaborate on [pytorch-lightning](https://github.com/pytorch-lightning)
-
-- 🤝 I’m looking for help with [DeepOps.](https://github.com/kartik4949/deepops)
 
 - 👨‍💻 All of my projects are available at [here.](here.)
 
