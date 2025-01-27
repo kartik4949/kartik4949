@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik4949" alt="kartik4949" /></a> </p>
 
-- 🔭 I’m currently working on [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb)
-
 - 🌱 I’m currently learning **Cuda, ARM assembly language.**
 
 - 👨‍💻 All of my projects are available at [here.](here.)
